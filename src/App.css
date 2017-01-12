@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App__SearchPagination {
+  font-size: 14px;
+  font-weight: 200;
+  display: inline-block;
+  position: absolute;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.App__PagButton {
+  cursor: pointer;
+}
+
+.App__PagButton:hover {
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.App__Title {
+  font-size: 60px;
+  font-weight: 100;
+  color: #e12222;
+  margin-bottom: 20px;
+  font-family: 'Helvetica Neue';
+}
